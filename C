@@ -1,4 +1,6 @@
 /**
+ * main - check the code
+ * Return: Always 0.
  * C program to enter marks of five subjects and find percentage and grade
  */
 
@@ -6,8 +8,8 @@
 
 int main()
 {
-    int phy, chem, bio, math, comp; 
-    float per; 
+    int phy, chem, bio, math, comp;
+    float per;
 
     /* Input marks of five subjects from user */
     printf("Enter five subjects marks: ");
